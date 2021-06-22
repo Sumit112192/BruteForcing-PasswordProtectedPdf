@@ -2,16 +2,13 @@ from pikepdf import Pdf
 import sys
 
 def cracking_password(password):
-    i=0
     try:
         pdf=Pdf.open('PDF.pdf',password)
         print("Password is "+(password))
-        i=1
+        sys.exit()
     except:
         print("[+]-CHECKING-",password)
-
-    if i==1:
-        sys.exit()
+        
 
 def cracking():
     file = open('passwords.txt','r')
