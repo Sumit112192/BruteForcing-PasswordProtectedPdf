@@ -13,7 +13,7 @@
    ```
    If you don't know about how to install python libraries, <a href="https://packaging.python.org/en/latest/tutorials/installing-packages/">Tutorial</a>
 3. Open python idle
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="pythonShell.png" alt="Logo" width="80" height="80">
 4. Open the file
 5. Run the file
 
