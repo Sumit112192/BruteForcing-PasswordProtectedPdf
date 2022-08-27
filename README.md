@@ -2,7 +2,6 @@
 
 
 1. Clone the repo
-  Open Cmd, navigate to the desired folder
    ```sh
    git clone https://github.com/your_username_/Project-Name.git
    ```
